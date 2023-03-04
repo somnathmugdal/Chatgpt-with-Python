@@ -9,4 +9,6 @@ Steps to Run the Project
 - run the below command in command line to install the all python packages
 - pip install -r "requirements.txt"
 - To run the program use "python chat.py"
+- Declared the api key in chat.py (line no. 6 )
+- You can find the api key at https://platform.openai.com/account/api-keys
 - All logs are stored in "chat.log" file 
