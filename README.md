@@ -2,7 +2,7 @@
 
 ## It is tool in which user will give instrucation according to that api will provide the best result
 
-## In this project used technologies are Python, OpneAI, ChatGPT, Python Logging
+## In this project used technologies are Python, OpneAI, ChatGPT, Python Logging, Speech Recognation
 
 Steps to Run the Project
 - Install all required python packages 
