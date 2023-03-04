@@ -3,7 +3,9 @@ from logger import log
 import speech_recognition as sr
 
 # Set up the OpenAI API client
-openai.api_key = "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"
+#Please declared the api key in below varibale
+openai.api_key = "<api_key>"
+
 log("chat",f"API KEY : {openai.api_key}")
 
 
